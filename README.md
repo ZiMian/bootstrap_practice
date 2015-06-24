@@ -3,10 +3,10 @@
 ###1.	navbar的按鈕分別有三個設定
 ‵`<ul class=’nav nav-tabs’>….</ul>‵`
 ‵`<ul class=’nav nav-pills’>….</ul>‵`
-<ul class=’nav nav-navbar-nav navbar-right’>….</ul>
+``<ul class=’nav nav-navbar-nav navbar-right’>….</ul>``
 ###2.更換導覽列顏色 分別有兩個設定
-- 設定於 ``<div class=’container navbar navbar-default’>`` -白色底黑字
-- 設定於 ``<div class=’container navbar navbar-inverse’>`` -黑色底白字
+設定於 ``<div class=’container navbar navbar-default’>`` 白色底黑字
+設定於 ``<div class=’container navbar navbar-inverse’>`` 黑色底白字
 ###3.	設定導覽列會不會跟著畫面跑的時候
 - 在``<div class=’navbar navbar-default navbar-static-top’>….</div>``
 將navbar-static-top的部分設定為如此時會跟著畫面跑
