@@ -8,7 +8,7 @@
 設定於 ``<div class=’container navbar navbar-default’>`` 白色底黑字
 設定於 ``<div class=’container navbar navbar-inverse’>`` 黑色底白字
 ###3.	設定導覽列會不會跟著畫面跑的時候
-- 在``<div class=’navbar navbar-default navbar-static-top’>….</div>``
+在``<div class=’navbar navbar-default navbar-static-top’>….</div>``
 將navbar-static-top的部分設定為如此時會跟著畫面跑
 若將上述部分更改為navbar-fixed-top時則不會跟著畫面捲動
 ###4.	當畫面須由手機等裝置開啟時(Extra Small) 須由java設定
